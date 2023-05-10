@@ -83,3 +83,9 @@ li a{
 .waffle h1{
     color: palevioletred;
 }
+.Design{
+justify-content: center;
+display: flex;
+color: palevioletred;
+font-family: 'Alamarai';
+}
