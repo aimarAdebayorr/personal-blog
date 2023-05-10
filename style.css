@@ -1,0 +1,85 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    
+}
+h1{
+    font-family: 'Almarai';
+    color: blueviolet;
+}
+h1 span{
+    color: blue;
+}
+.field{
+    border: 1px solid grey;
+    width: auto;
+    height: 20px;
+}
+input{
+    border: none;
+    width: 400px;
+}
+.Search{
+    background-color: purple;
+    border: none;
+    height: 20px;
+}
+button{
+    background-color: transparent;
+    border: none;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+
+}
+ul{
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+li{
+    padding-left: 20px;
+    list-style: none;
+
+}
+li a{
+    text-decoration: none;
+}
+.waffle p{
+  f
+   
+   font-family: 'Lato';
+
+}
+.dessert{
+    background-image: url(roses.jpg);
+    height: 500px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.icon{
+    width: 12px; 
+    height: 12px;
+}
+.waffle{
+    position: absolute;
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    transform: translate(25%, 40%);
+    padding: 50px;
+    border-radius: 5px;
+    border: 2px solid palevioletred;
+
+}
+.waffle h1{
+    color: palevioletred;
+}
